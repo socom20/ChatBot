@@ -1,0 +1,8 @@
+__*
+*.wav
+*.json
+*.pickle
+*.sqlite3
+*.cfg
+Crea*
+python*
